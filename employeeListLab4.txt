@@ -1,0 +1,10 @@
+Spencer
+10 35
+Griffin
+12 20
+Lucas
+14 40
+Zach
+10 30
+Stephen
+13 25
